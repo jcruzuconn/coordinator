@@ -33,4 +33,10 @@ class MainCoordinator: Coordinator {
         vc.coordinator = self
         navigationController.pushViewController(vc, animated: true)
     }
+    
+    func sendMessage() {
+        let vc = FourthViewController.instantiate()
+        vc.coordinator = self
+        navigationController.pushViewController(vc, animated: true)
+    }
 }

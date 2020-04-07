@@ -23,5 +23,11 @@ class ViewController: UIViewController,  Storyboarded {
     @IBAction func third(_ sender: Any) {
         coordinator?.createAccount()
     }
+    
+    @IBAction func fourth(_ sender: Any) {
+        coordinator?.sendMessage()
+
+    }
+    
 }
 

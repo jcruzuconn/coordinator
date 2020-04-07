@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F2F654B243C197200AB4339 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F2F654A243C197200AB4339 /* FourthViewController.swift */; };
 		8DFC7D83241D9A4600C5E59F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DFC7D82241D9A4600C5E59F /* AppDelegate.swift */; };
 		8DFC7D85241D9A4600C5E59F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DFC7D84241D9A4600C5E59F /* SceneDelegate.swift */; };
 		8DFC7D87241D9A4600C5E59F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DFC7D86241D9A4600C5E59F /* ViewController.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F2F654A243C197200AB4339 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 		8DFC7D7F241D9A4600C5E59F /* i2020_03_14_Coordinator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = i2020_03_14_Coordinator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DFC7D82241D9A4600C5E59F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DFC7D84241D9A4600C5E59F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				8DFC7D86241D9A4600C5E59F /* ViewController.swift */,
 				8DFC7DBA241DA0B600C5E59F /* SecondViewController.swift */,
 				8DFC7DBC241DA0C400C5E59F /* ThirdViewController.swift */,
+				3F2F654A243C197200AB4339 /* FourthViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				8DFC7DB4241D9F8100C5E59F /* Coordinator.swift in Sources */,
 				8DFC7DB9241D9FEB00C5E59F /* MainCoordinator.swift in Sources */,
 				8DFC7D87241D9A4600C5E59F /* ViewController.swift in Sources */,
+				3F2F654B243C197200AB4339 /* FourthViewController.swift in Sources */,
 				8DFC7DB6241D9FAA00C5E59F /* Storyboarded.swift in Sources */,
 				8DFC7DBB241DA0B600C5E59F /* SecondViewController.swift in Sources */,
 				8DFC7D83241D9A4600C5E59F /* AppDelegate.swift in Sources */,
